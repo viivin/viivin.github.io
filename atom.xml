@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2017-06-14T07:04:13.146Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://yoururl.com/"/>
+  <updated>2017-07-28T03:08:16.376Z</updated>
+  <id>http://yoururl.com/</id>
   
   <author>
     <name>viivin</name>
@@ -16,9 +16,40 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>江雪</title>
+    <link href="http://yoururl.com/2017/07/28/%E6%B1%9F%E9%9B%AA/"/>
+    <id>http://yoururl.com/2017/07/28/江雪/</id>
+    <published>2017-07-28T02:41:28.000Z</published>
+    <updated>2017-07-28T03:08:16.376Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>    江雪
+
+唐代 · 柳宗元 
+</code></pre><p>​   千山鸟飞绝， 万径人踪灭。</p>
+<p>   孤舟蓑笠翁， 独钓寒江雪。</p>
+<p><strong>注释</strong></p>
+<p>绝：无，没有。<br>万径：虚指，指千万条路。<br>人踪：人的脚印。<br>孤：孤零零。<br>蓑笠（suō lì）：蓑衣和斗笠　笠：用竹篾编成的帽子。（“蓑” ，古代用来防雨的衣服；“笠” ，古代用来防雨的帽子。）<br>独：独自。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;pre&gt;&lt;code&gt;    江雪
+
+唐代 · 柳宗元 
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;​   千山鸟飞绝， 万径人踪灭。&lt;/p&gt;
+&lt;p&gt;   孤舟蓑笠翁， 独钓寒江雪。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注释&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;绝：无，没有。&lt;br&gt;万径：虚指，指千
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>hi hexo</title>
-    <link href="http://yoursite.com/2017/06/14/hi-hexo/"/>
-    <id>http://yoursite.com/2017/06/14/hi-hexo/</id>
+    <link href="http://yoururl.com/2017/06/14/hi-hexo/"/>
+    <id>http://yoururl.com/2017/06/14/hi-hexo/</id>
     <published>2017-06-14T07:04:13.000Z</published>
     <updated>2017-06-14T07:04:13.146Z</updated>
     
@@ -31,20 +62,14 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/06/14/hello-world/"/>
-    <id>http://yoursite.com/2017/06/14/hello-world/</id>
+    <link href="http://yoururl.com/2017/06/14/hello-world/"/>
+    <id>http://yoururl.com/2017/06/14/hello-world/</id>
     <published>2017-06-14T06:38:03.755Z</published>
-    <updated>2017-06-14T06:38:03.755Z</updated>
+    <updated>2017-07-28T01:34:10.330Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
 ]]></content>
     
     <summary type="html">
